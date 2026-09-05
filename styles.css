@@ -44,3 +44,10 @@ footer { padding:2rem 0; border-top:1px solid var(--line); color:var(--muted); f
 .decision-grid h3 { margin-top:0; }
 .decision-grid p { margin-bottom:0; }
 @media (max-width:620px) { .decision-grid { grid-template-columns:1fr; } }
+
+.cta-box { margin:3rem 0; padding:1.5rem; border-radius:14px; background:var(--ink); color:#fff; }
+.cta-box h2 { margin:0 0 .6rem; color:#fff; }
+.cta-box p { margin:.4rem 0 1.1rem; color:#e9eef2; }
+.cta-box small { display:block; margin-top:.8rem; color:#bdc8d1; }
+.button-link { display:inline-block; padding:.72rem 1rem; border-radius:8px; background:#fff; color:var(--accent); font-weight:750; text-decoration:none; }
+.button-link:hover { background:var(--accent-soft); }
