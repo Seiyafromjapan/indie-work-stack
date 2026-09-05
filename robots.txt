@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://seiyafromjapan.github.io/indie-work-stack/sitemap.xml
