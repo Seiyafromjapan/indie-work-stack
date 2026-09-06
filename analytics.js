@@ -38,8 +38,17 @@ function gtag(){dataLayer.push(arguments);}
     document.addEventListener('click',function(event){
       var link=event.target.closest('a[href]');
       if(!link)return;
-      var host;
-      try{host=new URL(link.href).hostname;}catch(e){return;}
+      var parsed;
+      try{parsed=new URL(link.href);}catch(e){return;}
+      var host=parsed.hostname;
+      if(link.hasAttribute('download')||/\.(csv|xlsx?|pdf|docx?|pptx?|zip)$/i.test(parsed.pathname)){
+        gtag('event','resource_download',{
+          file_name:parsed.pathname.split('/').pop(),
+          file_extension:(parsed.pathname.split('.').pop()||'').toLowerCase(),
+          link_url:link.href,
+          link_text:link.textContent.trim()
+        });
+      }
       if(host==='kit.com'||host.endsWith('.kit.com')||host==='mailchimp.com'||host.endsWith('.mailchimp.com')){
         gtag('event','partner_click',{
           partner_name:host.includes('mailchimp')?'mailchimp':'kit',
