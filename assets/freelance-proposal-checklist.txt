@@ -1,0 +1,55 @@
+FREELANCE PROPOSAL CHECKLIST
+Indie Work Stack
+
+Use this before sending a proposal. Replace or remove every bracketed item.
+
+1. CLIENT AND CONTEXT
+[ ] Client or company name is correct.
+[ ] The problem or desired outcome is stated in the client's language.
+[ ] Relevant constraints, deadlines, and stakeholders are recorded.
+[ ] Assumptions are clearly identified.
+
+2. SCOPE
+[ ] Deliverables are specific and countable where possible.
+[ ] Work that is not included is stated.
+[ ] The number of revisions or feedback rounds is defined.
+[ ] Client responsibilities and required materials are listed.
+[ ] The process for scope changes is explained.
+
+3. PROCESS AND TIMING
+[ ] Project stages are listed.
+[ ] Start date and target completion date are included.
+[ ] Feedback and approval deadlines are included.
+[ ] Dependencies that can change the schedule are stated.
+
+4. PRICE AND PAYMENT
+[ ] Price and currency are clear.
+[ ] Taxes or additional expenses are explained.
+[ ] Deposit, milestones, and final payment dates are listed.
+[ ] Payment method and payment terms are included.
+[ ] The proposal validity date is stated.
+
+5. OWNERSHIP AND OPERATIONS
+[ ] Ownership or license terms for final work are clear.
+[ ] Confidentiality requirements are addressed.
+[ ] Access, accounts, files, and data handling are defined.
+[ ] Cancellation or postponement terms are included where appropriate.
+
+6. NEXT STEP
+[ ] The exact approval action is stated.
+[ ] The proposal includes a contact for questions.
+[ ] The proposal has been proofread.
+[ ] Links and attachments have been tested.
+[ ] A follow-up date is recorded in the lead tracker.
+
+FINAL CHECK
+[ ] The proposal explains the decision without unnecessary detail.
+[ ] The client can identify scope, timing, price, and next step quickly.
+[ ] No service or result is promised beyond what can be delivered.
+
+Proposal valid until:
+Follow-up date:
+Notes:
+
+Guide:
+https://seiyafromjapan.github.io/indie-work-stack/freelance-proposal-checklist.html
