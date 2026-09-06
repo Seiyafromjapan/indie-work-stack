@@ -1,0 +1,54 @@
+FREELANCE LEAD FOLLOW-UP EMAIL TEMPLATES
+Indie Work Stack
+https://seiyafromjapan.github.io/indie-work-stack/freelance-lead-follow-up.html
+
+Replace every item in [brackets] before sending.
+
+1. FIRST FOLLOW-UP
+
+Subject: Next step for [project]
+
+Hi [Name],
+
+I'm checking whether you had a chance to review the [proposal/details] for [project].
+
+If the scope looks right, the next step is [specific action]. I'm also happy to clarify anything before you decide.
+
+Best,
+[Your name]
+
+
+2. SECOND FOLLOW-UP
+
+Subject: One note about [project]
+
+Hi [Name],
+
+One detail that may help with your decision: [brief relevant example, clarification, or trade-off].
+
+Would you like to move ahead with [next step], or is there another question I can answer?
+
+Best,
+[Your name]
+
+
+3. FINAL FOLLOW-UP
+
+Subject: Closing the loop on [project]
+
+Hi [Name],
+
+I haven't heard back, so I'll close this enquiry for now.
+
+If the project becomes active again, you're welcome to reply and we can check timing and scope then.
+
+Best,
+[Your name]
+
+
+USAGE NOTES
+
+- Adapt the timing to any decision date the prospect gave you.
+- Keep each message focused on one next step.
+- Do not continue when the prospect has declined or asked you to stop.
+- Record each next action and date in your lead tracker.
