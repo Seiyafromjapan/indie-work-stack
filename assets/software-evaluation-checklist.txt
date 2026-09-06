@@ -1,0 +1,55 @@
+SOFTWARE EVALUATION CHECKLIST FOR FREELANCERS
+Indie Work Stack
+
+Write the answer before starting a free trial.
+
+THE JOB
+[ ] What specific problem should this tool solve?
+[ ] What happens today when that problem is not solved?
+[ ] Who will use the tool?
+[ ] How often will they use it?
+[ ] What result would make the tool worth keeping?
+
+REQUIRED WORKFLOW
+[ ] What starts the workflow?
+[ ] What are the essential steps?
+[ ] What information must be recorded?
+[ ] What must happen automatically?
+[ ] What can remain manual?
+[ ] Which existing tools must connect to it?
+
+COST
+[ ] What is the monthly price at today's usage?
+[ ] What causes the price to increase?
+[ ] Are essential features limited to a higher plan?
+[ ] Is there a setup, migration, or training cost?
+[ ] Can the subscription be changed or cancelled easily?
+
+DATA AND EXIT
+[ ] Can contacts, content, and reports be exported?
+[ ] Which export formats are available?
+[ ] Can data be deleted?
+[ ] What must be rebuilt if you leave?
+[ ] Is there a practical backup process?
+
+TRIAL TEST
+[ ] Use real sample data that contains no sensitive client information.
+[ ] Complete one entire workflow from start to finish.
+[ ] Test the most important integration.
+[ ] Ask the future user to complete the workflow without help.
+[ ] Record every confusing or manual step.
+[ ] Check support documentation for unresolved questions.
+
+DECISION
+[ ] Does the tool solve the defined job?
+[ ] Can the workflow be maintained every week?
+[ ] Are the limits acceptable for the next 12 months?
+[ ] Is the improvement worth the total cost?
+[ ] What date will you review the decision?
+
+Decision: KEEP / REJECT / TEST LONGER
+Review date:
+Notes:
+
+Guide:
+https://seiyafromjapan.github.io/indie-work-stack/software-evaluation-checklist.html
