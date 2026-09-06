@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Indie Work Stack</title>
+    <link>https://seiyafromjapan.github.io/indie-work-stack/</link>
+    <description>Practical software decision guides for freelancers and independent service businesses.</description>
+    <language>en</language>
+    <lastBuildDate>Sun, 06 Sep 2026 09:00:00 +0700</lastBuildDate>
+    <atom:link href="https://seiyafromjapan.github.io/indie-work-stack/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Kit vs. Mailchimp for freelancers: which one fits your workflow?</title>
+      <link>https://seiyafromjapan.github.io/indie-work-stack/kit-vs-mailchimp-for-freelancers.html</link>
+      <guid isPermaLink="true">https://seiyafromjapan.github.io/indie-work-stack/kit-vs-mailchimp-for-freelancers.html</guid>
+      <pubDate>Sat, 05 Sep 2026 09:00:00 +0700</pubDate>
+      <description>Compare Kit and Mailchimp by free-plan limits, audience workflow, automation, and practical fit.</description>
+    </item>
+    <item>
+      <title>Kit setup for freelancers: a simple first-week checklist</title>
+      <link>https://seiyafromjapan.github.io/indie-work-stack/kit-setup-for-freelancers.html</link>
+      <guid isPermaLink="true">https://seiyafromjapan.github.io/indie-work-stack/kit-setup-for-freelancers.html</guid>
+      <pubDate>Sat, 05 Sep 2026 08:00:00 +0700</pubDate>
+      <description>A practical setup checklist covering forms, tags, confirmation email, testing, and the first broadcast.</description>
+    </item>
+    <item>
+      <title>Kit’s free plan for freelancers: what can you actually do?</title>
+      <link>https://seiyafromjapan.github.io/indie-work-stack/kit-free-plan-for-freelancers.html</link>
+      <guid isPermaLink="true">https://seiyafromjapan.github.io/indie-work-stack/kit-free-plan-for-freelancers.html</guid>
+      <pubDate>Sat, 05 Sep 2026 07:00:00 +0700</pubDate>
+      <description>What Kit’s free plan includes, where its limits matter, and whether it is enough to start an email list.</description>
+    </item>
+    <item>
+      <title>Kit vs. a CRM for freelancers: which system do you need first?</title>
+      <link>https://seiyafromjapan.github.io/indie-work-stack/email-marketing-or-crm-first.html</link>
+      <guid isPermaLink="true">https://seiyafromjapan.github.io/indie-work-stack/email-marketing-or-crm-first.html</guid>
+      <pubDate>Fri, 04 Sep 2026 09:00:00 +0700</pubDate>
+      <description>Decide whether audience nurturing or individual sales follow-up is your more urgent job.</description>
+    </item>
+    <item>
+      <title>CRM features that matter for a solo service business</title>
+      <link>https://seiyafromjapan.github.io/indie-work-stack/crm-features-for-solo-service-businesses.html</link>
+      <guid isPermaLink="true">https://seiyafromjapan.github.io/indie-work-stack/crm-features-for-solo-service-businesses.html</guid>
+      <pubDate>Sat, 29 Aug 2026 08:00:00 +0700</pubDate>
+      <description>Five practical CRM features to put on a freelancer’s requirements list.</description>
+    </item>
+    <item>
+      <title>Do freelancers need a CRM?</title>
+      <link>https://seiyafromjapan.github.io/indie-work-stack/do-freelancers-need-a-crm.html</link>
+      <guid isPermaLink="true">https://seiyafromjapan.github.io/indie-work-stack/do-freelancers-need-a-crm.html</guid>
+      <pubDate>Sat, 29 Aug 2026 07:00:00 +0700</pubDate>
+      <description>When a CRM helps a freelancer and when a spreadsheet or task board is enough.</description>
+    </item>
+  </channel>
+</rss>
