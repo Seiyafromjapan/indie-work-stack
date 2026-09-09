@@ -1,0 +1,46 @@
+EMAIL MARKETING LAUNCH CHECKLIST
+
+Purpose
+[ ] Write one sentence describing the email program's job.
+[ ] Define the intended reader and what they expect to receive.
+[ ] Choose one primary signup offer.
+
+Signup path
+[ ] Publish the signup form or landing page.
+[ ] State what subscribers will receive and how often.
+[ ] Link the privacy policy near the form.
+[ ] Confirm that consent is explicit and recorded.
+
+Delivery
+[ ] Write the confirmation or welcome message.
+[ ] Deliver the promised resource or next step.
+[ ] Check sender name, reply-to address, subject, and preview text.
+[ ] Test every link and attachment.
+
+Trust and compliance
+[ ] Include a working unsubscribe link.
+[ ] Include the required sender or business details.
+[ ] Avoid importing contacts without permission.
+[ ] Keep a record of where each subscriber opted in.
+
+Testing
+[ ] Test signup with two different email providers.
+[ ] Check inbox, spam, and promotions placement.
+[ ] Review the form and email on mobile.
+[ ] Confirm the unsubscribe flow removes or suppresses the contact.
+[ ] Export a backup of contacts and consent data.
+
+Measurement
+[ ] Define the main success event: signup, reply, click, or booking.
+[ ] Record the starting number of subscribers.
+[ ] Review delivery, clicks, replies, and unsubscribes after each send.
+[ ] Change one element at a time when improving the workflow.
+
+Launch decision
+[ ] The entire path works without a paid upgrade.
+[ ] The subscriber receives exactly what was promised.
+[ ] A reply reaches an inbox that is monitored.
+[ ] The workflow can be maintained consistently.
+
+Indie Work Stack
+https://seiyafromjapan.github.io/indie-work-stack/
