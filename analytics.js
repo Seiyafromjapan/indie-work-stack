@@ -56,6 +56,14 @@ function gtag(){dataLayer.push(arguments);}
           link_text:link.textContent.trim()
         });
       }
+      if(host==='seiya-utsumi.kit.com'){
+        gtag('event','lead_magnet_click',{
+          lead_magnet:'software_evaluation_checklist',
+          link_url:link.href,
+          link_text:link.textContent.trim(),
+          page_path:window.location.pathname
+        });
+      }
       if(host==='imp.i384100.net'){
         gtag('event','affiliate_click',{affiliate_program:'coursera',link_url:link.href,link_text:link.textContent.trim(),page_path:window.location.pathname});
       }
