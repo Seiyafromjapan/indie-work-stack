@@ -43,4 +43,4 @@ Launch decision
 [ ] The workflow can be maintained consistently.
 
 Indie Work Stack
-https://seiyafromjapan.github.io/indie-work-stack/
+https://indieworkstack.com/

@@ -52,4 +52,4 @@ Review date:
 Notes:
 
 Guide:
-https://seiyafromjapan.github.io/indie-work-stack/software-evaluation-checklist.html
+https://indieworkstack.com/software-evaluation-checklist.html
