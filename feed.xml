@@ -5,8 +5,15 @@
     <link>https://indieworkstack.com/</link>
     <description>Practical software decision guides for freelancers and independent service businesses.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Sep 2026 12:30:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 17:30:00 +0700</lastBuildDate>
     <atom:link href="https://indieworkstack.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Client content readiness sheet for freelance web projects</title>
+      <link>https://indieworkstack.com/client-content-readiness-sheet.html</link>
+      <guid isPermaLink="true">https://indieworkstack.com/client-content-readiness-sheet.html</guid>
+      <pubDate>Sat, 19 Sep 2026 17:30:00 +0700</pubDate>
+      <description>Collect page copy, images, owners, dates, and approvals before missing client content delays design or build work.</description>
+    </item>
     <item>
       <title>Coursera digital marketing courses for freelancers: how to choose</title>
       <link>https://indieworkstack.com/coursera-digital-marketing-for-freelancers.html</link>

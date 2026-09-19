@@ -1,0 +1,69 @@
+Client Content Readiness Sheet
+
+Use this before design or build work depends on client-provided content.
+
+Project:
+Client content owner:
+Target start date:
+Content review date:
+
+Content checklist
+
+Page: Home
+- Required item: headline, offer, primary action
+- Owner:
+- Due date:
+- File or document link:
+- Status: Missing / Draft / Approved
+
+Page: About
+- Required item: bio or company story, approved photo
+- Owner:
+- Due date:
+- File or document link:
+- Status: Missing / Draft / Approved
+
+Page: Services
+- Required item: service descriptions, packages, approved pricing if shown
+- Owner:
+- Due date:
+- File or document link:
+- Status: Missing / Draft / Approved
+
+Page: Portfolio or case studies
+- Required item: project names, images, results, client approval if needed
+- Owner:
+- Due date:
+- File or document link:
+- Status: Missing / Draft / Approved
+
+Page: Contact
+- Required item: contact details, form recipient, booking link if used
+- Owner:
+- Due date:
+- File or document link:
+- Status: Missing / Draft / Approved
+
+All pages
+- Required item: logo, licensed images, brand colors, legal text if needed
+- Owner:
+- Due date:
+- File or document link:
+- Status: Missing / Draft / Approved
+
+Readiness review
+
+- Which missing items block layout decisions?
+- Which pages can proceed with approved content?
+- Which pages need copywriting, client review, or a revised date?
+- Who owns the next content decision?
+- Where will all feedback be collected?
+- Does any new request change the agreed scope?
+
+Client handoff note
+
+Before design or build work begins, please confirm which content is approved,
+which content is still in draft, and who owns each missing item. This helps keep
+the project moving without redesigning pages after final content arrives.
+
+This is a workflow aid, not contract language or legal advice.
