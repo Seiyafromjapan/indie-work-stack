@@ -35,9 +35,16 @@ function gtag(){dataLayer.push(arguments);}
       document.body.appendChild(banner);
     }
 
-    document.addEventListener('click',function(event){
-      var link=event.target.closest('a[href]');
-      if(!link)return;
+  document.addEventListener('click',function(event){
+    var link=event.target.closest('a[href]');
+    if(!link)return;
+    var pageParams=new URLSearchParams(window.location.search);
+    var attribution={
+      utm_source:pageParams.get('utm_source')||'',
+      utm_medium:pageParams.get('utm_medium')||'',
+      utm_campaign:pageParams.get('utm_campaign')||'',
+      utm_content:pageParams.get('utm_content')||''
+    };
       var parsed;
       try{parsed=new URL(link.href);}catch(e){return;}
       var host=parsed.hostname;
@@ -61,11 +68,18 @@ function gtag(){dataLayer.push(arguments);}
           lead_magnet:'software_evaluation_checklist',
           link_url:link.href,
           link_text:link.textContent.trim(),
-          page_path:window.location.pathname
+          page_path:window.location.pathname,
+          ...attribution
         });
       }
       if(host==='imp.i384100.net'){
-        gtag('event','affiliate_click',{affiliate_program:'coursera',link_url:link.href,link_text:link.textContent.trim(),page_path:window.location.pathname});
+        gtag('event','affiliate_click',{
+          affiliate_program:'coursera',
+          link_url:link.href,
+          link_text:link.textContent.trim(),
+          page_path:window.location.pathname,
+          ...attribution
+        });
       }
     });
   });
