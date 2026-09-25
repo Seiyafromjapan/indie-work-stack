@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}(function(){var choice=null;try{choice=localStorage.getItem("iws_analytics_consent")}catch(e){}gtag("consent","default",{analytics_storage:choice==="granted"?"granted":"denied",ad_storage:"denied",ad_user_data:"denied",ad_personalization:"denied",wait_for_update:500})})();</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-P3XSN970VV"></script>
+<script defer src="analytics.js?v=20260920-1"></script>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="A five-point handoff check for residential cleaning owners who are adding their first cleaner or managing a small team. Decide what to fix before buying software.">
+<title>First Cleaner Handoff Audit | Indie Work Stack</title>
+<link rel="stylesheet" href="styles.css">
+<link rel="canonical" href="https://indieworkstack.com/cleaning-handoff-audit-pilot.html">
+<meta property="og:type" content="website">
+<meta property="og:title" content="First Cleaner Handoff Audit | Indie Work Stack">
+<meta property="og:description" content="Check whether a rescheduled recurring clean still carries the right person, property instructions, customer message, and invoice.">
+<meta property="og:url" content="https://indieworkstack.com/cleaning-handoff-audit-pilot.html">
+<meta property="og:site_name" content="Indie Work Stack">
+<meta property="og:image" content="https://indieworkstack.com/assets/cleaning-handoff-pin.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" type="image/png" href="assets/indie-work-stack-icon.png">
+<style>
+.audit-intro{max-width:46rem}.audit-grid{display:grid;gap:.85rem;margin:1.5rem 0}.audit-item{display:block;border:1px solid #d9e1e5;border-radius:12px;padding:1rem;background:#fff}.audit-item strong{display:block;margin-bottom:.3rem}.audit-item small{display:block;color:#435761;line-height:1.55;margin-top:.45rem}.audit-item label{display:flex;gap:.8rem;align-items:flex-start;cursor:pointer}.audit-item input{width:1.25rem;height:1.25rem;flex:none;margin:.2rem 0 0;accent-color:#145c52}.audit-result{border-left:4px solid #145c52;background:#f3f8f6;padding:1rem 1.25rem;margin:1.5rem 0;max-width:46rem}.pilot{border:1px solid #b9c9c8;border-radius:14px;padding:1.2rem 1.35rem;margin:2rem 0;max-width:46rem;background:#f9fbfa}.pilot ul{padding-left:1.25rem}.muted{color:#435761}.audit-actions{display:flex;flex-wrap:wrap;gap:.75rem;margin:1rem 0}.audit-actions button{border:1px solid #145c52;background:#fff;color:#145c52;border-radius:7px;padding:.65rem .95rem;cursor:pointer;font:inherit}.audit-actions button:focus-visible,.audit-item input:focus-visible{outline:3px solid #e3a83d;outline-offset:3px}@media print{header,footer,.audit-actions,.pilot{display:none!important}main{max-width:none!important}.audit-item{break-inside:avoid}}
+</style>
+</head>
+<body>
+<header><div class="wrap bar"><a class="brand" href="index.html">Indie Work Stack</a><nav aria-label="Main navigation"><a href="start-here.html">Start Here</a><a href="resources.html">Resources</a><a href="about.html">About</a></nav></div></header>
+<main class="wrap">
+<p class="eyebrow">For residential cleaning owners adding a cleaner</p>
+<h1>Can your schedule survive a handoff?</h1>
+<p class="lead audit-intro">A recurring client moves one visit. Your usual cleaner can't make the new time. Before buying another app, check what your replacement cleaner and customer will actually know.</p>
+<div class="notice audit-intro"><strong>Example only:</strong> Jamie Smith's Thursday clean moves to Friday. The usual cleaner is unavailable. The new cleaner needs three instructions: dog in backyard; use side entrance; do not use bleach. Jamie and all details here are fictional.</div>
+<h2>Run this against your current setup</h2>
+<p class="audit-intro">For each item, tick the box only if you can point to where the updated information lives and who can see it. A text you plan to remember to send later does not count.</p>
+<div class="audit-grid" id="audit">
+<div class="audit-item"><label><input type="checkbox" data-check="visit"><span><strong>1. One visit moved</strong>Friday shows the correct time, and the rest of the recurring series stays on Thursday.<small>Check both the owner's calendar and the cleaner's view.</small></span></label></div>
+<div class="audit-item"><label><input type="checkbox" data-check="person"><span><strong>2. The replacement knows it is theirs</strong>The original assignment is removed and the replacement can see the job before Friday.<small>Who confirms the change when the owner is busy?</small></span></label></div>
+<div class="audit-item"><label><input type="checkbox" data-check="instructions"><span><strong>3. Property instructions survive</strong>The replacement can find all three instructions without searching an old text thread.<small>Check the replacement's view; an owner-only note is not enough.</small></span></label></div>
+<div class="audit-item"><label><input type="checkbox" data-check="customer"><span><strong>4. The customer gets one clear update</strong>Jamie receives the changed visit time and any relevant arrival detail.<small>Know whether your tool sends a message or the owner must send it.</small></span></label></div>
+<div class="audit-item"><label><input type="checkbox" data-check="money"><span><strong>5. The completed visit still reconciles</strong>The correct visit, charge, and customer history match after the change.<small>No real payment is needed to run this check.</small></span></label></div>
+</div>
+<div class="audit-result" role="status" aria-live="polite"><strong id="audit-count">0 of 5 checks confirmed.</strong><p id="audit-guidance">Start with a real reschedule and verify each view. This is a workflow check, not a software recommendation.</p></div>
+<div class="audit-actions"><button type="button" onclick="window.print()">Print the checklist</button><button type="button" id="reset-audit">Clear checks</button></div>
+<h2>What the result means</h2>
+<p class="audit-intro">If the handoff works reliably with your calendar, notes, and invoicing setup, keeping that stack may be the right move. If a check fails because information is entered inconsistently, fix the procedure first. If the same changes repeatedly have to be copied across people and tools, a dedicated system may be worth trialing against this exact scenario. Client count alone does not settle the decision.</p>
+<section class="pilot" aria-labelledby="pilot-title">
+<p class="eyebrow">For owners with a first cleaner or small crew</p>
+<h2 id="pilot-title">What broke in your last handoff?</h2>
+<p>If you tried the five checks against an actual reschedule, we would like to hear which one failed and what you currently use. This helps us decide which decision guides to build next. There is no paid offer on this page.</p>
+<p>Please share only your team size, whether the job is recurring, and the part of the handoff that broke. Do not send client names, addresses, access codes, or payment information.</p>
+<p><a class="button-link" href="mailto:trippen108@gmail.com?subject=IWS%20cleaning%20handoff%20feedback&amp;body=Team%20size%3A%0ARecurring%20visits%3A%0AThe%20handoff%20step%20that%20broke%3A%0A">Tell us the missing step</a></p>
+</section>
+<p class="muted">Method: this checklist is a decision aid built from public owner problems and a fictional scenario. Indie Work Stack has not run the full scenario inside Jobber or ZenMaid. No vendor paid for this page. Your checkbox selections stay in this browser page; if you allow analytics, we record only that all five checks were confirmed. Read our <a href="editorial-policy.html">editorial policy</a>, <a href="privacy.html">privacy policy</a>, and <a href="disclosure.html">disclosure</a>.</p>
+</main>
+<footer><div class="wrap">© 2026 Indie Work Stack · <a href="index.html">Home</a> · <a href="about.html">About</a> · <a href="privacy.html">Privacy</a> · <a href="terms.html">Terms</a></div></footer>
+<script>
+(function(){
+  var checks=[].slice.call(document.querySelectorAll('#audit input[type="checkbox"]'));
+  var count=document.getElementById('audit-count');
+  var guidance=document.getElementById('audit-guidance');
+  var recorded=false;
+  function update(){
+    var done=checks.filter(function(item){return item.checked}).length;
+    count.textContent=done+' of 5 checks confirmed.';
+    guidance.textContent=done===5?'Your current handoff passed these five checks for this example. Repeat with a real change before deciding to buy software.':done===0?'Start with a real reschedule and verify each view. This is a workflow check, not a software recommendation.':'Inspect the unchecked handoff points in your current workflow. A missing check does not automatically mean you need new software.';
+    if(done===5&&!recorded){
+      recorded=true;
+      try{if(localStorage.getItem('iws_analytics_consent')==='granted'&&typeof gtag==='function')gtag('event','handoff_check_completed',{page_path:location.pathname});}catch(e){}
+    }
+  }
+  checks.forEach(function(item){item.addEventListener('change',update)});
+  document.getElementById('reset-audit').addEventListener('click',function(){checks.forEach(function(item){item.checked=false});update()});
+})();
+</script>
+</body>
+</html>
